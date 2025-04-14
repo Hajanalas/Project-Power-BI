@@ -1,5 +1,4 @@
-Zadání projektu Power BI
-Vizualizace zvoleného datasetu podle níže zadaných kritérií.
+Zadání projektu Power BI: Vizualizace zvoleného datasetu podle níže zadaných kritérií.
 
 Finální PBI musí splňovat tato kritéria:
 1) Rozsah 2-3 stránky
